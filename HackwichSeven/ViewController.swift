@@ -33,7 +33,7 @@ class ViewController: UIViewController {
     
     //we want to set the displayLabel to the userInputText
         displayLabel.text = userInputText
-    
+    //Completed parts 1-8
     }
     
     
